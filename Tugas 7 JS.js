@@ -8,3 +8,6 @@ for (i = 0; i < Tinggi_Badan.length; i++) {
 for (let x of Tinggi_Badan) {
     console.log(x);
 }
+
+//secara hasil tidak ada yang berbeda tetapi dengan pengulangan biasa dapat lebih dibatasi jumlah data atau nilai outputnya.
+//sedangkan dengan for of loop data atau nilai outputnya harus semuanya yang ada di dalam array.
